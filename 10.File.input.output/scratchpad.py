@@ -1,0 +1,1 @@
+print("Adalaide".strip('A','a'))
